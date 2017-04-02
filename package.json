@@ -1,0 +1,27 @@
+{
+    "name": "codincat-theme",
+    "displayName": "CodinCat-theme",
+    "description": "",
+    "version": "0.0.2",
+    "publisher": "CodinCat",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "CodinCat",
+                "uiTheme": "vs-dark",
+                "path": "./themes/codincat.tmTheme"
+            },
+            {
+                "label": "CodinCat Dimmed",
+                "uiTheme": "vs-dark",
+                "path": "./themes/codincat-dimmed.tmTheme"
+            }
+        ]
+    }
+}
