@@ -90,7 +90,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b281bbff</string>
+				<string>#baa300ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -166,7 +166,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#baa300ff</string>
+				<string>#b281bbff</string>
 			</dict>
 		</dict>
 		<dict>
