@@ -2,9 +2,10 @@
     "name": "codincat-theme",
     "displayName": "CodinCat-theme",
     "description": "An easy on eyes color scheme",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "CodinCat",
     "repository": "https://github.com/CodinCat/codincat-theme",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.10.0"
     },
