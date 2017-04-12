@@ -2,7 +2,7 @@
     "name": "codincat-theme",
     "displayName": "CodinCat-theme",
     "description": "",
-    "version": "0.0.3",
+    "version": "1.0.0",
     "publisher": "CodinCat",
     "engines": {
         "vscode": "^1.10.0"
@@ -21,6 +21,11 @@
                 "label": "CodinCat Dimmed",
                 "uiTheme": "vs-dark",
                 "path": "./themes/codincat-dimmed.tmTheme"
+            },
+            {
+                "label": "CodinCat Lighter",
+                "uiTheme": "vs-dark",
+                "path": "./themes/codincat-lighter.tmTheme"
             }
         ]
     }

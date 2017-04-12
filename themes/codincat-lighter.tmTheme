@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>CodinCat Dimmed</string>
+	<string>CodinCat Lighter</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -37,7 +37,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#524f45ff</string>
+				<string>#9d9059ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -48,7 +48,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#50744cff</string>
+				<string>#74da68ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -59,7 +59,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4d708aff</string>
+				<string>#72c0fbff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -72,7 +72,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#9f3232ff</string>
+				<string>#ff4646ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -83,7 +83,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7752b8ff</string>
+				<string>#cf98ffff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -94,7 +94,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7f6c33ff</string>
+				<string>#f8c730ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -105,7 +105,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9b5252ff</string>
+				<string>#ff8080ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -118,7 +118,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#9b2828ff</string>
+				<string>#ff2e2eff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -131,7 +131,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#917f22ff</string>
+				<string>#fff10eff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -144,7 +144,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#a934b8ff</string>
+				<string>#ff61ffff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -157,7 +157,7 @@
 				<key>fontStyle</key>
 				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#7e7e7eff</string>
+				<string>#e5cacaff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -170,7 +170,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#81562dff</string>
+				<string>#fd8d24ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -183,7 +183,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#538080ff</string>
+				<string>#7ae8ebff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -196,7 +196,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#477382ff</string>
+				<string>#64cbefff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -209,7 +209,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#907111ff</string>
+				<string>#ffcc00ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -222,7 +222,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#707e28ff</string>
+				<string>#d2f71cff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -235,7 +235,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#9f49b4ff</string>
+				<string>#ff80ffff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -246,7 +246,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#815393ff</string>
+				<string>#e17fffff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -268,11 +268,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#b3164fff</string>
+				<string>#ff2183ff</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#aeaea3ff</string>
+				<string>#ffffffff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -283,9 +283,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#7752b8ff</string>
+				<string>#cf98ffff</string>
 				<key>foreground</key>
-				<string>#aeaea3ff</string>
+				<string>#ffffffff</string>
 			</dict>
 		</dict>
 	</array>
