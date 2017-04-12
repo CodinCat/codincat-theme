@@ -14,7 +14,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#272822</string>
+				<string>#161810</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
@@ -22,9 +22,9 @@
 				<key>invisibles</key>
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
-				<string>#333022</string>
+				<string>#252218</string>
 				<key>selection</key>
-				<string>#49483E</string>
+				<string>#343022</string>
 			</dict>
 		</dict>
 		<dict>
