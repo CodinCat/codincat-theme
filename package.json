@@ -1,9 +1,10 @@
 {
     "name": "codincat-theme",
     "displayName": "CodinCat-theme",
-    "description": "",
-    "version": "1.0.0",
+    "description": "An easy on eyes color scheme",
+    "version": "1.0.1",
     "publisher": "CodinCat",
+    "repository": "https://github.com/CodinCat/codincat-theme",
     "engines": {
         "vscode": "^1.10.0"
     },
