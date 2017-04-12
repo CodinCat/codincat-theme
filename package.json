@@ -2,10 +2,19 @@
     "name": "codincat-theme",
     "displayName": "CodinCat-theme",
     "description": "An easy on eyes color scheme",
-    "version": "1.1.1",
+    "keywords": [
+        "dark",
+        "theme",
+        "color scheme"
+    ],
+    "version": "1.1.2",
     "publisher": "CodinCat",
     "repository": "https://github.com/CodinCat/codincat-theme",
     "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#272822",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.10.0"
     },
