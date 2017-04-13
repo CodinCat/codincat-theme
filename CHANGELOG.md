@@ -1,3 +1,6 @@
+## [1.1.4] - 2017-04-13
+- Adjust yellow and red of lighter theme
+
 ## [1.1.3] - 2017-04-12
 - Update background, lineHighlight and selection colors of dimmed and lighter themes
 
