@@ -8,12 +8,12 @@
         "dimmed",
         "color scheme"
     ],
-    "version": "1.1.4",
+    "version": "1.2.0",
     "publisher": "CodinCat",
     "repository": "https://github.com/CodinCat/codincat-theme",
     "icon": "icon.png",
     "galleryBanner": {
-        "color": "#636d71",
+        "color": "#51595d",
         "theme": "dark"
     },
     "engines": {

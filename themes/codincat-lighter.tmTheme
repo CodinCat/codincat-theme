@@ -44,7 +44,7 @@
 			<key>name</key>
 			<string>String</string>
 			<key>scope</key>
-			<string>string</string>
+			<string>string, support.constant.font-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -55,7 +55,7 @@
 			<key>name</key>
 			<string>Number</string>
 			<key>scope</key>
-			<string>constant.numeric</string>
+			<string>constant.numeric, keyword.other.unit</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -66,7 +66,7 @@
 			<key>name</key>
 			<string>Built-in constant</string>
 			<key>scope</key>
-			<string>constant.language</string>
+			<string>constant.language, entity.other.attribute-name.id</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -90,7 +90,7 @@
 			<key>name</key>
 			<string>Variable</string>
 			<key>scope</key>
-			<string>variable</string>
+			<string>variable,support.constant.property-value.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -101,7 +101,7 @@
 			<key>name</key>
 			<string>Keyword</string>
 			<key>scope</key>
-			<string>keyword</string>
+			<string>keyword,support.type.property-name, meta.property-name,support.type.vendored.property-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -125,7 +125,7 @@
 			<key>name</key>
 			<string>Storage type</string>
 			<key>scope</key>
-			<string>storage.type</string>
+			<string>storage.type, entity.name.tag</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -164,7 +164,7 @@
 			<key>name</key>
 			<string>Function name</string>
 			<key>scope</key>
-			<string>entity.name.function</string>
+			<string>entity.name.function, entity.other.attribute-name.class</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -216,7 +216,7 @@
 			<key>name</key>
 			<string>Library function</string>
 			<key>scope</key>
-			<string>support.function</string>
+			<string>support.function, meta.property-value, support.constant.property-value</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -229,7 +229,7 @@
 			<key>name</key>
 			<string>Library constant</string>
 			<key>scope</key>
-			<string>support.constant</string>
+			<string>support.constant, entity.other.attribute-name.pseudo-element</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -288,12 +288,23 @@
 				<string>#ffffffff</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Basic</string>
+			<key>scope</key>
+			<string>punctuation.terminator.rule, punctuation.separator.key-value</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#d6d3c2</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.codin_cat</string>
+	<string>theme.dark.codincat_lighter</string>
 </dict>
 </plist>
