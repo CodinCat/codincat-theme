@@ -1,3 +1,6 @@
+## [1.2.1] - TBD
+- Update angle bracket color of markup languages
+
 ## [1.2.0] - 2017-04-14
 - Better CSS support!
 
