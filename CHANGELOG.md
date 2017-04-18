@@ -1,5 +1,7 @@
-## [1.2.1] - TBD
+## [1.2.1] - 2017-04-18
 - Update angle bracket color of markup languages
+- Tweak the yellow and purple slightly
+- Tweak the main variable color slightly
 
 ## [1.2.0] - 2017-04-14
 - Better CSS support!
