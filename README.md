@@ -7,3 +7,5 @@ Contains 3 themes (Default, Dimmed and Lighter) that based on the same color sch
 Recommended fonts: [Fira Mono](https://mozilla.github.io/Fira/), [Input](http://input.fontbureau.com/) (the font of the screenshot above) or [Hack](https://github.com/chrissimpkins/Hack).
 
 I'll also recommend the [f.lux](https://justgetflux.com/) app.
+
+> Looking for the Atom theme? [It's here](https://atom.io/packages/codincat-theme)
